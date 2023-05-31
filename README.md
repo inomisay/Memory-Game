@@ -11,6 +11,7 @@ Tiles should include *animal* words such as dog, cat, bird, rabbit, etc.
 There is a text file (D:\\animals.txt). The number of animals is unknown. Read the file and insert them in an **AnimalSLL**.
 A sample file: animals.txt
 <img width="110" alt="Screen Shot 2023-05-31 at 16 19 23" src="https://github.com/inomisay/Memory-Game/assets/98346164/1a7d5c21-8b6c-43f7-97b4-2430aaf0b62c">
+
 A sample **single linked-list (SLL)** that includes animals:
 <img width="904" alt="Screen Shot 2023-05-31 at 16 19 50" src="https://github.com/inomisay/Memory-Game/assets/98346164/4869eed8-b5d5-4719-814f-2f0e9ebb7a7a">
 
